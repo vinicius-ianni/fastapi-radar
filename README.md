@@ -2,10 +2,17 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PyPI](https://img.shields.io/pypi/v/fastapi-radar)](https://pypi.org/project/fastapi-radar/)
 
 **A debugging dashboard for FastAPI applications providing real-time request, database query, and exception monitoring.**
 
 **Just one line to add powerful monitoring to your FastAPI app!**
+
+### Featured In
+
+- [**Python Weekly**](https://www.pythonweekly.com/p/python-weekly-issue-715-september-25-2025) — Issue 715, Sep 2025
+- [**PythonHub**](https://x.com/PythonHub/status/1973527222435680356) — Featured project
+- [**PythonHub Weekly Digest**](https://pythonhub.dev/digest/2025-10-05/) — Oct 2025
 
 ## See it in Action
 
